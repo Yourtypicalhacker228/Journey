@@ -4,10 +4,10 @@
 
 <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-##🚀 About Me
+## 🚀 About Me
 
 I’m a driven student fueled by curiosity and purpose. Although financial constraints prevented me from sitting for the CEH and CCT certification exams, I’ve acquired hands-on experience through intensive training and platforms like TryHackMe, Coursera, and Forage’s job simulations—and I’m hungry to put those skills to work.
-
+ 
 ## 🎯 Objective
 To launch my cybersecurity career by joining a Security Operations Center (SOC) as a Tier 1 Analyst, with a focus on threat detection, incident response, and continuous learning.
 
@@ -50,8 +50,6 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 💡Due to financial constraints, I wasn’t able to sit for the CEH or CCT certification exams. 
 However, that hasn’t stopped me from actively mastering the core competencies through self-study, hands-on labs, and real-world job simulations. Platforms like TryHackMe, Forage, and Coursera have given me extensive practical exposure to threat detection, incident response, and the tools used in modern SOC environments.
 
-## 🎓 Courses
-
 I've completed professional certificate programs from:
 
 - 🧠 [Google](https://www.coursera.org/google) (via Coursera)
@@ -60,6 +58,7 @@ I've completed professional certificate programs from:
 - 🔐 [ISC2 - Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC)
 - [IBM & ISC2 Cybersecurity specialist](https://www.coursera.org/google) (via Coursera)
 
+## 🎓 Courses
 
  <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"> <img src="https://img.shields.io/badge/-CEH-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" /> </a> 
  <a href="https://www.eccouncil.org/certifications/cct"> <img src="https://img.shields.io/badge/-CCT-005f73?style=for-the-badge&logo=TorBrowser&logoColor=white" /> </a> 
