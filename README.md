@@ -12,10 +12,6 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 
 ## 🛠️ Skills
 
-<details>
-
-<br>
-
 | Skill                                           | Associated Project                                |
 |------------------------------------------------|--------------------------------------------------|
 | SIEM Implementation and Log Analysis           | [Detection Lab](https://google.com)              |
@@ -26,8 +22,6 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab                               |
 | Threat Emulation via TryHackMe Labs            | [TryHackMe Profile](https://tryhackme.com)       |
 | Role-Based Experience via Forage Simulations   | Mastercard, Datacom, AIG, Commonwealth           |
-
-</details>
 
 ## 🧰 Tools Used
 
