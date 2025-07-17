@@ -1,7 +1,6 @@
 # Journey for Cybersec
 
 # Hello, I'm Boineelo Theocracy Kgatejepe👨‍💻
-
 <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ## 🚀 About Me
@@ -14,7 +13,6 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 ## 🛠️ Skills
 
 <details>
-<summary>Click to view technical skills</summary>
 
 <br>
 
@@ -61,7 +59,7 @@ I've completed professional certificate programs from:
 ## 🎓 Courses
 
  <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"> <img src="https://img.shields.io/badge/-CEH-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" /> </a> 
- <a href="https://www.eccouncil.org/certifications/cct"> <img src="https://img.shields.io/badge/-CCT-005f73?style=for-the-badge&logo=TorBrowser&logoColor=white" /> </a> 
+ <a href="https://www.eccouncil.org/programs/certified-cybersecurity-technician"> <img src="https://img.shields.io/badge/-CCT-005f73?style=for-the-badge&logo=TorBrowser&logoColor=white" /> </a> 
  <a href="https://www.coursera.org"> <img src="https://img.shields.io/badge/-Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" /> </a> 
  <a href="https://www.theforage.com"> <img src="https://img.shields.io/badge/-Forage-4caf50?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" /> </a>
 
