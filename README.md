@@ -8,10 +8,10 @@
 
 I’m a driven student fueled by curiosity and purpose. Although financial constraints prevented me from sitting for the CEH and CCT certification exams, I’ve acquired hands-on experience through intensive training and platforms like TryHackMe, Coursera, and Forage’s job simulations—and I’m hungry to put those skills to work.
 
-##🎯 Objective
+## 🎯 Objective
 To launch my cybersecurity career by joining a Security Operations Center (SOC) as a Tier 1 Analyst, with a focus on threat detection, incident response, and continuous learning.
 
-##🛠️ Skills
+## 🛠️ Skills
 
 <details>
 <summary>Click to view technical skills</summary>
@@ -31,21 +31,21 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 
 </details>
 
-##🧰 Tools Used
+## 🧰 Tools Used
 
-###🔗 Network
+### 🔗 Network
 
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> </div>
 
-###🖥️ Endpoint
+### 🖥️ Endpoint
 
 <div> <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> </div>
 
-###📊 SIEM
+### 📊 SIEM
 
 <div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
 
-##🧾 Certifications
+## 🧾 Certifications
 
 💡Due to financial constraints, I wasn’t able to sit for the CEH or CCT certification exams. 
 However, that hasn’t stopped me from actively mastering the core competencies through self-study, hands-on labs, and real-world job simulations. Platforms like TryHackMe, Forage, and Coursera have given me extensive practical exposure to threat detection, incident response, and the tools used in modern SOC environments.
