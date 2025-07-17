@@ -1,17 +1,17 @@
 # Journey for Cybersec
 
-Hello, I'm Boineelo Theocracy Kgatejepe👨‍💻
+# Hello, I'm Boineelo Theocracy Kgatejepe👨‍💻
 
 <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-🚀 About Me
+##🚀 About Me
 
 I’m a driven student fueled by curiosity and purpose. Although financial constraints prevented me from sitting for the CEH and CCT certification exams, I’ve acquired hands-on experience through intensive training and platforms like TryHackMe, Coursera, and Forage’s job simulations—and I’m hungry to put those skills to work.
 
-🎯 Objective
+##🎯 Objective
 To launch my cybersecurity career by joining a Security Operations Center (SOC) as a Tier 1 Analyst, with a focus on threat detection, incident response, and continuous learning.
 
-🛠️ Skills
+##🛠️ Skills
 
 <details>
 <summary>Click to view technical skills</summary>
@@ -31,25 +31,26 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 
 </details>
 
-🧰 Tools Used
+##🧰 Tools Used
 
-🔗 Network
+###🔗 Network
+
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> </div>
 
-🖥️ Endpoint
+###🖥️ Endpoint
 
 <div> <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> </div>
 
-📊 SIEM
+###📊 SIEM
 
 <div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
 
-🧾 Certifications
+##🧾 Certifications
 
 💡Due to financial constraints, I wasn’t able to sit for the CEH or CCT certification exams. 
 However, that hasn’t stopped me from actively mastering the core competencies through self-study, hands-on labs, and real-world job simulations. Platforms like TryHackMe, Forage, and Coursera have given me extensive practical exposure to threat detection, incident response, and the tools used in modern SOC environments.
 
-## 🧾 Certifications
+## 🎓 Courses
 
 I've completed professional certificate programs from:
 
@@ -59,7 +60,6 @@ I've completed professional certificate programs from:
 - 🔐 [ISC2 - Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC)
 - [IBM & ISC2 Cybersecurity specialist](https://www.coursera.org/google) (via Coursera)
 
-Courses
 
  <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"> <img src="https://img.shields.io/badge/-CEH-000000?style=for-the-badge&logo=HackTheBox&logoColor=white" /> </a> 
  <a href="https://www.eccouncil.org/certifications/cct"> <img src="https://img.shields.io/badge/-CCT-005f73?style=for-the-badge&logo=TorBrowser&logoColor=white" /> </a> 
