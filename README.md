@@ -39,7 +39,7 @@ To launch my cybersecurity career by joining a Security Operations Center (SOC) 
 
 ## 🧾 Certifications
 
-💡Due to financial constraints, I wasn’t able to sit for the CEH or CCT certification exams. 
+💡Due to financial constraints, I wasn’t able to sit for the CEH, CCT and CCNA certification exams. 
 However, that hasn’t stopped me from actively mastering the core competencies through self-study, hands-on labs, and real-world job simulations. Platforms like TryHackMe, Forage, and Coursera have given me extensive practical exposure to threat detection, incident response, and the tools used in modern SOC environments.
 
 I've completed professional certificate programs from:
